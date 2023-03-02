@@ -3,7 +3,7 @@
   
 ## Features
   - Real-time news update
-  - Reconstruct message
+  - Reconstruct message (translate from Chinese to English)
   - Send message through Telegram bot
   - Message includes [Trading View](https://www.tradingview.com/chart/QwqMVIbu/), stock prices (HK, US, SZ, SH) with amplitudes (if applicable) 
   
